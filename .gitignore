@@ -1,0 +1,16 @@
+# Visual Studio settings
+.vs/
+*.vcxproj.user
+*.suo
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# Build output
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.log
