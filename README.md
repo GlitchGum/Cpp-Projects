@@ -13,7 +13,7 @@ Each folder corresponds to a chapter project:
 
 * `Chapter 1/` – *Lost Fortune*
 * `Chapter 2/` – *Guess My Number*
-* 
+*  `Chapter 3/` – *Word Jumble*
 
 ---
 
